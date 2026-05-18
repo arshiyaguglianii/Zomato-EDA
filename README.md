@@ -8,6 +8,10 @@ cuisines, and online ordering behavior.
 ## Tools Used
 Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
+## Live Dashboard
+View the interactive Tableau dashboard here:
+https://public.tableau.com/app/profile/arshiya.gugliani/viz/ZomatoBangaloreRestaurantAnalysis/Dashboard1
+
 ## Questions I Answered
 1. What restaurant types are most common?
 2. Does online ordering affect ratings?
